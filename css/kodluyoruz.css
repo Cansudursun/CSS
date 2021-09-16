@@ -1,0 +1,46 @@
+/* Açıklama Satırı
+
+CSS için düzenlenmiştir.
+*/
+ body {background-color: yellowgreen;
+    color: green;
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    color: purple; 
+    font-size: 64px;
+    text-transform: uppercase;
+
+}
+p{
+    color: white;
+    font-size: 20px;
+
+}
+ul {
+    color: blueviolet;
+} 
+
+/*class -> .text-red {}
+*id -> #id bilgisi {} */
+h2 {
+    color: purple; 
+    font-size: 64px;
+    text-transform: uppercase;
+
+#first-article {
+    font-size: 15px;
+}
+
+.text-red {
+    color:red;
+}
+.fs-small {
+    font-size: 14px;
+}
+.fs-medium {
+    font-size: 20px;
+}
+.fs-large {
+    font: size 30px;
+}
